@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://nf-be7.mmferry.rn-guess-number.exp.direct",
+  "packagerNgrokUrl": "https://packager.nf-be7.mmferry.rn-guess-number.exp.direct",
+  "ngrokPid": 25209,
+  "webpackServerPort": null
+}
